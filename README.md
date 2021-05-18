@@ -7,3 +7,10 @@
  ![gitmerge](gitmerge.png)
 ### git fetch
   ![gitfetch](gitfetch.png)
+  ### conflict
+ ![conflict](conflict1.png)
+### conflict happen between remote and local repo
+![conflict](conflict.png)
+### conflict solved 
+ ![conflictsolved](conflictSolved.png)
+
