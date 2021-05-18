@@ -5,3 +5,5 @@
  ![remote-v](remote.png)
 ### git merge
  ![gitmerge](gitmerge.png)
+### git fetch
+  ![gitfetch](gitfetch.png)
