@@ -3,3 +3,5 @@
 ### Use this upstream repository to do exercise 3
 ### remote -v
  ![remote-v](remote.png)
+### git merge
+ ![gitmerge](gitmerge.png)
