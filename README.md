@@ -1,5 +1,6 @@
 # CS445-May2021-Lab1
 
+
 ### Use this upstream repository to do exercise 3
 ### remote -v
  ![remote-v](remote.png)
@@ -13,4 +14,8 @@
 ![conflict](conflict.png)
 ### conflict solved 
  ![conflictsolved](conflictSolved.png)
+
+
+Use this upstream repository to do exercise 3
+![Glod Dog](https://github.com/bellaxing/CS445-May2021-Lab1/blob/main/dog.jpg)
 
